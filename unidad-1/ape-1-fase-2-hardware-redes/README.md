@@ -4,8 +4,8 @@
 | --- | --- |
 | **Unidad** | U1: Introducción al Networking |
 | **Práctica** | Fase 2 — Exploración de Conceptos de Networking, Hardware, Software y Modelos de Referencia |
-| **Modalidad** | Grupal: Miguel Veintimilla, Emilio Flores, Roger Jima, Julian Vega, Alejandro Padilla Espinoza |
-| **Informe** | [documento/exploracion-de-conceptos-de-networking-hardware-software-y-modelos-de-referencia-fase-2-v001.pdf](documento/exploracion-de-conceptos-de-networking-hardware-software-y-modelos-de-referencia-fase-2-v001.pdf) |
+| **Modalidad** | Grupal: Miguel Veintimilla, Emilio Flores, Royel Jima, Julian Vega, Alejandro Padilla Espinoza |
+| **Informe** | [documento/exploracion-de-conceptos-de-networking-hardware-software-y-modelos-de-referencia-fase-2-v002.pdf](documento/exploracion-de-conceptos-de-networking-hardware-software-y-modelos-de-referencia-fase-2-v002.pdf) |
 | **Bibliografía** | [referencias.bib](referencias.bib) |
 
 ## 1. Enunciado y objetivo
@@ -18,7 +18,7 @@ Inventariar y clasificar el hardware de redes del laboratorio, compararlo con eq
 | --- | --- |
 | Miguel Veintimilla | Comparativa de dispositivos del mercado y pregunta de control 1 |
 | Emilio Flores | Inventario del laboratorio con fotos y pregunta de control 2 |
-| Roger Jima | Clasificación del hardware y reflexión ambiental |
+| Royel Jima | Clasificación del hardware y reflexión ambiental |
 | Julian Vega | Componentes de red del PC y pregunta de control 3 |
 | Alejandro Padilla Espinoza | Objetivos, conclusiones, bibliografía e integración del informe |
 

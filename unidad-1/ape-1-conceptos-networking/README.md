@@ -4,8 +4,8 @@
 | --- | --- |
 | **Unidad** | U1: Introducción al Networking |
 | **Práctica** | Fase 1 — Exploración de Conceptos de Networking, Hardware, Software y Modelos de Referencia |
-| **Modalidad** | Grupal: Miguel Veintimilla, Emilio Flores, Roger Jima, Julian Vega, Alejandro Padilla Espinoza |
-| **Informe** | [documento/ape-1-conceptos-networking.pdf](documento/ape-1-conceptos-networking.pdf) |
+| **Modalidad** | Grupal: Miguel Veintimilla, Emilio Flores, Royel Jima, Julian Vega, Alejandro Padilla Espinoza |
+| **Informe** | [documento/exploracion-de-conceptos-de-networking-hardware-software-y-modelos-de-referencia-fase-1-v001.pdf](documento/exploracion-de-conceptos-de-networking-hardware-software-y-modelos-de-referencia-fase-1-v001.pdf) |
 | **Bibliografía** | [referencias.bib](referencias.bib) |
 
 ## 1. Enunciado y objetivo
@@ -18,7 +18,7 @@ Investigar en equipo los conceptos básicos de Networking (definición de red, t
 | --- | --- |
 | Miguel Veintimilla | Investigación de los conceptos |
 | Emilio Flores | Mapa conceptual (Canva) |
-| Roger Jima | Mapa conceptual (Canva) |
+| Royel Jima | Mapa conceptual (Canva) |
 | Julian Vega | Organización de la información y revisión con la rúbrica |
 | Alejandro Padilla Espinoza | Redacción del informe |
 
