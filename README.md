@@ -13,6 +13,7 @@ Repositorio con las prácticas y entregas de la asignatura.
 | Unidad | Práctica | Tema | Carpeta |
 | --- | --- | --- | --- |
 | 1 | APE 1 (Fase 1) | Exploración de conceptos de Networking | [unidad-1/ape-1-conceptos-networking](unidad-1/ape-1-conceptos-networking/) |
+| 1 | APE 1 (Fase 2) | Hardware de redes, clasificación y reflexión ambiental | [unidad-1/ape-1-fase-2-hardware-redes](unidad-1/ape-1-fase-2-hardware-redes/) |
 
 ## Contenido de cada práctica
 
