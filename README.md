@@ -3,7 +3,7 @@
 | | |
 | --- | --- |
 | **Asignatura** | Fundamentos de Redes |
-| **Docente** | Por definir |
+| **Docente** | Ing. Mario Enrique Cueva Hurtado |
 | **Estudiante** | Alejandro Padilla |
 
 Repositorio con las prácticas y entregas de la asignatura.
@@ -12,7 +12,7 @@ Repositorio con las prácticas y entregas de la asignatura.
 
 | Unidad | Práctica | Tema | Carpeta |
 | --- | --- | --- | --- |
-| — | — | Sin prácticas todavía | — |
+| 1 | APE 1 (Fase 1) | Exploración de conceptos de Networking | [unidad-1/ape-1-conceptos-networking](unidad-1/ape-1-conceptos-networking/) |
 
 ## Contenido de cada práctica
 
