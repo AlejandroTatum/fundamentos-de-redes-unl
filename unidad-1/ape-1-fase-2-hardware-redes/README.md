@@ -5,7 +5,7 @@
 | **Unidad** | U1: Introducción al Networking |
 | **Práctica** | Fase 2 — Exploración de Conceptos de Networking, Hardware, Software y Modelos de Referencia |
 | **Modalidad** | Grupal: Miguel Veintimilla, Emilio Flores, Royel Jima, Julian Vega, Alejandro Padilla Espinoza |
-| **Informe** | [documento/exploracion-de-conceptos-de-networking-hardware-software-y-modelos-de-referencia-fase-2-v002.pdf](documento/exploracion-de-conceptos-de-networking-hardware-software-y-modelos-de-referencia-fase-2-v002.pdf) |
+| **Informe** | [documento/exploracion-de-conceptos-de-networking-hardware-software-y-modelos-de-referencia-fase-2-v003.pdf](documento/exploracion-de-conceptos-de-networking-hardware-software-y-modelos-de-referencia-fase-2-v003.pdf) |
 | **Bibliografía** | [referencias.bib](referencias.bib) |
 
 ## 1. Enunciado y objetivo
@@ -20,7 +20,7 @@ Inventariar y clasificar el hardware de redes del laboratorio, compararlo con eq
 | Emilio Flores | Inventario del laboratorio con fotos y pregunta de control 2 |
 | Royel Jima | Clasificación del hardware y reflexión ambiental |
 | Julian Vega | Componentes de red del PC y pregunta de control 3 |
-| Alejandro Padilla Espinoza | Objetivos, conclusiones, bibliografía e integración del informe |
+| Alejandro Padilla Espinoza | Objetivos, conclusiones, bibliografía, integración del informe y fotos del laboratorio |
 
 ## 3. Herramientas de IA
 
@@ -36,8 +36,9 @@ La IA ejecutó; el reparto de tareas, el contenido de cada aporte, el formato y 
 1. Integración de los cuatro aportes individuales (Anexo A del informe) en un solo documento con formato APE.
 2. Verificación de las fuentes nuevas: cifras de RAEE del MAATE, Acuerdo MAATE-2022-067, consumo de centros de datos de la IEA y precios de lista de Cisco.
 3. Condensación de la reflexión ambiental en tablas y párrafos cortos para respetar el límite de palabras.
-4. Verificación independiente: 46 requisitos de la guía y la rúbrica, cada uno con cita textual del informe como evidencia.
+4. Verificación independiente: 52 requisitos de la guía y la rúbrica, cada uno con cita textual del informe como evidencia.
 5. Aprobación del borrador, PDF en formato APE e inspección visual de cada página.
+6. Ampliación con fotos propias del laboratorio: rack, switches 3Com y HP, routers Cisco 2811 y Linksys WRT54GL, interfaces WAN, cableado estructurado, red telefónica y medios no guiados (Figuras 3-6 y 8-11).
 
 ## 5. Errores de la IA y correcciones
 
@@ -46,4 +47,6 @@ La IA ejecutó; el reparto de tareas, el contenido de cada aporte, el formato y 
 - **Conclusiones genéricas:** repetían la teoría. Se reescribieron como aprendizajes de la práctica.
 - **Objetivo faltante:** la verificación independiente detectó que faltaba el objetivo 1 de la guía y una conclusión sobre estándares y protocolos. Se agregaron.
 - **Páginas con espacios vacíos:** las fotos ocupaban media hoja cada una. Se combinaron en figuras de varios paneles y se fijaron junto a su texto; el informe pasó de 15 a 10 páginas.
+- **Tablas apretadas:** las tablas usaban letra pequeña y poco relleno. Se aplicó un estilo con más espacio y la comparativa de seis columnas se dividió en las Tablas 3 y 4.
+- **Falso título huérfano:** el validador confundió el final de una celda partida con un título. Se reformuló la celda.
 - **Carpeta de entrega equivocada:** el PDF se publicó primero fuera de este repositorio. Se movió aquí.
